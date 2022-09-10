@@ -2,7 +2,6 @@
 
 use Provider to implement the logic of calculator
 
-✌ Preview
 
 |              App Preview             |  
 | :----------------------------------: | 
