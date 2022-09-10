@@ -1,6 +1,6 @@
-# calculator
+## calculator
 
-use Provider to implement the logic of calculator
+use Provider to implement the logic of calculator in Flutter
 
 
 |              App Preview             |  
